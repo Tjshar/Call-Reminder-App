@@ -108,15 +108,15 @@ function showCards() {
 
   if (allTasks.length === 0) {
     const emptyMsg = document.createElement("h2");
-    emptyMsg.classList.add(".empty-msg");
+    emptyMsg.classList.add("empty-msg");
     emptyMsg.innerText = "No Notes Yet";
 
     const Instruct1 = document.createElement("h3");
-    Instruct1.classList.add(".empty-msg");
+    Instruct1.classList.add("empty-msg");
     Instruct1.innerText = "Click + button to";
 
     const Instruct2 = document.createElement("h3");
-    Instruct2.classList.add(".empty-msg");
+    Instruct2.classList.add("empty-msg");
     Instruct2.innerText = "create your first note";
 
     stack.appendChild(emptyMsg);
