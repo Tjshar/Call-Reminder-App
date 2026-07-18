@@ -12,19 +12,19 @@ A clean and interactive Call Reminder App built using HTML, CSS, and Vanilla Jav
 
 ### Empty Page
 
-![Empty Page](./screenshots/empty.png)
+![Empty Page](./screenshots/empty.jpeg)
 
 ---
 
 ### Home Page
 
-![Home Page](./screenshots/home.png)
+![Home Page](./screenshots/home.jpeg)
 
 ---
 
 ### Add Reminder Form
 
-![Add Reminder Form](./screenshots/form.png)
+![Add Reminder Form](./screenshots/form.jpeg)
 
 ---
 
