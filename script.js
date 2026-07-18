@@ -196,7 +196,11 @@ function showCards() {
     stack.appendChild(card); 
   });
 
-  updateStack();
+  requestAnimationFrame(()=>{
+        updateStack();
+    }
+  );
+  
 }
 
 showCards();
