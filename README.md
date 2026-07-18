@@ -16,12 +16,6 @@ A clean and interactive Call Reminder App built using HTML, CSS, and Vanilla Jav
 
 ---
 
-### Home Page
-
-![Home Page](./screenshots/home.jpeg)
-
----
-
 ### Add Reminder Form
 
 ![Add Reminder Form](./screenshots/form.jpeg)
